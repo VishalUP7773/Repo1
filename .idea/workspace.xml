@@ -1,47 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="33dacc96-72e9-439e-b9e1-79b9d2cd5a12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_project_Jan24.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/DemoArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_and_object/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_and_object/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_and_object/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_and_object/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_and_object/Engineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_and_object/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditional_statements/DemoANDOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditional_statements/DemoIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditional_statements/DemoIfAndElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditional_statements/DemoNestedIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditional_statements/DemoOROperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditional_statements/DemoSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conditional_statements/NOTOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/DemoExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/DemoJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/DemoBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/DemoContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/DemoNestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/DemoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/InfiniteLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/TableOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revision/DemoPrinting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/RevisionVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/VariableDay1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/VariableDay2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/VariableDay3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/VariableManipulation.java" afterDir="false" />
-    </list>
+    <list default="true" id="33dacc96-72e9-439e-b9e1-79b9d2cd5a12" name="Changes" comment="method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2dAVubqwxNPxJGjWhAZ5vaFg7xx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -81,6 +47,14 @@
       <option name="presentableId" value="Default" />
       <updated>1709451096380</updated>
     </task>
+    <task id="LOCAL-00001" summary="method">
+      <created>1709451568038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709451568038</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,5 +67,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="method" />
+    <option name="LAST_COMMIT_MESSAGE" value="method" />
   </component>
 </project>
